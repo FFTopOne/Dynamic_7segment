@@ -1,0 +1,17 @@
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+xsim.dir/
+project/
+src/filelist.v
+src/dymc_seg_tb.v
+src/fpgafiles.vf
+utilization_synth.rpt
+*.bak
